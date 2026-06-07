@@ -1,4 +1,4 @@
-# Sakuramochi UI
+# Otsukimi UI
 
 ﾕﾒｶﾜﾃﾞｻﾞｲﾝｼｽﾃﾑ
 
