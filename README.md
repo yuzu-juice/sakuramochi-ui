@@ -17,22 +17,26 @@
 ## Installation
 
 **npm**
+
 ```bash
 
 npm install otsukimi-ui
 ```
 
 **pnpm**
+
 ```bash
 pnpm add otsukimi-ui
 ```
 
 **yarn**
+
 ```bash
 yarn add otsukimi-ui
 ```
 
 **bun**
+
 ```bash
 bun add otsukimi-ui
 ```
@@ -44,4 +48,3 @@ import { version } from "otsukimi-ui";
 
 console.log(version);
 ```
-
