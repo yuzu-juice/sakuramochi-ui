@@ -1,0 +1,27 @@
+:root {
+  --otsukimi-color-bg-base: #faf8ff;
+  --otsukimi-color-bg-surface: #ffffff;
+  --otsukimi-color-brand-primary: #dca3ff;
+  --otsukimi-color-brand-primary-soft: #efd6ff;
+  --otsukimi-color-brand-primary-deep: #7b8cff;
+  --otsukimi-color-accent-default: #8edaf7;
+  --otsukimi-color-accent-soft: #cdefff;
+  --otsukimi-color-text-primary: #483354;
+  --otsukimi-color-text-secondary: #7a7691;
+  --otsukimi-color-boader-default: #e8dcf3;
+  --otsukimi-color-highlight-default: #ffbc00;
+  --otsukimi-color-highlight-soft: #fff3c7;
+
+  --otsukimi-radius-xs: 8px;
+  --otsukimi-radius-sm: 16px;
+  --otsukimi-radius-md: 24px;
+  --otsukimi-radius-lg: 32px;
+  --otsukimi-radius-full: 9999px;
+
+  --otsukimi-spacing-1: 4px;
+  --otsukimi-spacing-2: 8px;
+  --otsukimi-spacing-3: 16px;
+  --otsukimi-spacing-4: 24px;
+  --otsukimi-spacing-5: 32px;
+  --otsukimi-spacing-6: 64px;
+}
