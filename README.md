@@ -57,16 +57,6 @@ Releases are managed by **release-please** and published to npm via GitHub Actio
 
 This repository uses **Squash and Merge**. The PR title becomes the final commit message on `main`, so PR titles should follow Conventional Commits.
 
-Examples:
-
-```txt
-fix: correct package license
-feat: add button component
-docs: update README
-chore: update package settings
-ci: update GitHub Actions
-```
-
 ### Version bumps
 
 release-please determines releases from commit messages:
