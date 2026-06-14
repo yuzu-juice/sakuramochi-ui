@@ -15,8 +15,12 @@
       "types": "./dist/index.d.ts",
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
-    }
+    },
+    "./tokens.css": "./src/foundations/tokens.css"
   },
+  "sideEffects": [
+    "**/*.css"
+  ],
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts",
     "typecheck": "tsc --noEmit",
