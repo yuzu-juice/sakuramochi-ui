@@ -60,62 +60,61 @@
 
 Layer 1
 
-
-* X: 0
-* Y: 4
-* Blur: 8
-* Spread: 0
-* Color: `#DDB7F4`
-* Opacity: 10%
+- X: 0
+- Y: 4
+- Blur: 8
+- Spread: 0
+- Color: `#DDB7F4`
+- Opacity: 10%
 
 Layer 2
 
-* X: 0
-* Y: 2
-* Blur: 4
-* Spread: 0
-* Color: `#000000`
-* Opacity: 3%
+- X: 0
+- Y: 2
+- Blur: 4
+- Spread: 0
+- Color: `#000000`
+- Opacity: 3%
 
 ### Shadow MD
 
 Layer 1
 
-* X: 0
-* Y: 8
-* Blur: 24
-* Spread: 0
-* Color: `#DDB7F4`
-* Opacity: 15%
+- X: 0
+- Y: 8
+- Blur: 24
+- Spread: 0
+- Color: `#DDB7F4`
+- Opacity: 15%
 
 Layer 2
 
-* X: 0
-* Y: 2
-* Blur: 8
-* Spread: 0
-* Color: `#000000`
-* Opacity: 5%
+- X: 0
+- Y: 2
+- Blur: 8
+- Spread: 0
+- Color: `#000000`
+- Opacity: 5%
 
 ### Shadow LG
 
 Layer 1
 
-* X: 0
-* Y: 16
-* Blur: 48
-* Spread: 0
-* Color: `#DDB7F4`
-* Opacity: 20%
+- X: 0
+- Y: 16
+- Blur: 48
+- Spread: 0
+- Color: `#DDB7F4`
+- Opacity: 20%
 
 Layer 2
 
-* X: 0
-* Y: 4
-* Blur: 16
-* Spread: 0
-* Color: `#000000`
-* Opacity: 6%
+- X: 0
+- Y: 4
+- Blur: 16
+- Spread: 0
+- Color: `#000000`
+- Opacity: 6%
 
 ---
 
@@ -123,45 +122,45 @@ Layer 2
 
 ### Display
 
-* Font: Zen Maru Gothic
-* Size: 48px
-* Weight: 700
-* Line Height: 120%
+- Font: Zen Maru Gothic
+- Size: 48px
+- Weight: 700
+- Line Height: 120%
 
 ### H1
 
-* Font: Zen Maru Gothic
-* Size: 32px
-* Weight: 700
-* Line Height: 130%
+- Font: Zen Maru Gothic
+- Size: 32px
+- Weight: 700
+- Line Height: 130%
 
 ### H2
 
-* Font: Zen Maru Gothic
-* Size: 24px
-* Weight: 700
-* Line Height: 140%
+- Font: Zen Maru Gothic
+- Size: 24px
+- Weight: 700
+- Line Height: 140%
 
 ### H3
 
-* Font: Zen Maru Gothic
-* Size: 20px
-* Weight: 500
-* Line Height: 140%
+- Font: Zen Maru Gothic
+- Size: 20px
+- Weight: 500
+- Line Height: 140%
 
 ### Body
 
-* Font: LINE Seed JP
-* Size: 16px
-* Weight: 400
-* Line Height: 160%
+- Font: LINE Seed JP
+- Size: 16px
+- Weight: 400
+- Line Height: 160%
 
 ### Caption
 
-* Font: LINE Seed JP
-* Size: 13px
-* Weight: 400
-* Line Height: 150%
+- Font: LINE Seed JP
+- Size: 13px
+- Weight: 400
+- Line Height: 150%
 
 ---
 
@@ -186,13 +185,13 @@ WCAG 2.1 AA
 
 ### Principles
 
-* Accessible First
-* Cute Second
-* Clear and Consistent
+- Accessible First
+- Cute Second
+- Clear and Consistent
 
 ### Requirements
 
-* Text contrast ratio ≥ 4.5:1
-* Visible focus indicators
-* Keyboard accessible
-* Touch targets ≥ 44×44px
+- Text contrast ratio ≥ 4.5:1
+- Visible focus indicators
+- Keyboard accessible
+- Touch targets ≥ 44×44px
